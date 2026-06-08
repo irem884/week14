@@ -1,2 +1,2 @@
 a = prompt('İsminizi Yazınız');
-alert(a);  #İrem Ulucan tarafından kodlandı
+alert(a);  //İrem Ulucan tarafından kodlandı
